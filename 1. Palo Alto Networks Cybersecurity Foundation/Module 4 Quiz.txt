@@ -1,0 +1,19 @@
+Distributed Denial of Service - DDoS
+
+Malware
+
+True
+
+Rootkit (incorrect)
+
+Logic Bomb
+
+Virus, Worm
+
+Bare Metal (incorrect)
+
+Grayware
+
+False
+
+A: Hiding techniques such as obfuscation, B: Hiding techniques such as polymorphism and metamorphism, C: Multi-functionality, D: Distributed, fault-tolerant architecture
