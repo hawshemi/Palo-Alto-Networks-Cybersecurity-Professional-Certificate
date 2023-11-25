@@ -1,0 +1,61 @@
+14
+
+1111 1010
+
+192.168.0.255/16
+
+Class C
+
+128
+
+IP Address
+
+192.168.25.48
+
+SD-WAN
+
+SOA - Start for Authority
+
+5G
+
+Switch
+
+Core
+
+Value Add Network - VAN
+
+Maintaining and optimizing network devices
+
+Application protocol decoding
+
+Data filtering
+
+man
+
+Wildfire
+
+Client Probing
+
+Enabling all of the security functions in a UTM device can have a significant performance impact.
+
+Is extremely fast and has no impact on network performance
+
+Secure Socket Layer - SSL
+
+Media Access Control - MAC
+
+Presentation
+
+Transport
+
+Transport
+
+3
+
+Session
+
+Data Link
+
+De-encapsulation
+
+Signal errors caused by noise
