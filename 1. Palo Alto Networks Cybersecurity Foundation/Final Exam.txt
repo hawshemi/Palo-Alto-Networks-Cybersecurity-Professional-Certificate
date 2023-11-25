@@ -1,0 +1,79 @@
+Software as a Service - SaaS
+
+General Data Protection Regulation - GDPR
+
+IaC
+
+PCI Security Standards Council - SSC
+
+Canada Personal Information Protection and Electronic Documents Act - PIPEDA
+
+True
+
+Hacktivist
+
+DNS poisoning (incorrect)
+
+Change the Service Set Identifier - SSID (incorrect)
+
+False
+
+False
+
+Desktop, Point of Sale Terminal - POS, Smartphone
+
+False
+
+False
+
+Wired Equivalent Privacy - WEP, WiFi Protected Setup - WPS
+
+Distributed Denial of Service - DDoS
+
+Malware
+
+True
+
+Rootkit (incorrect)
+
+Logic Bomb
+
+Worm
+
+Bare Metal (incorrect)
+
+Grayware
+
+True
+
+A: Hiding techniques such as obfuscation, B: Hiding techniques such as polymorphism and metamorphism, C: Multi-functionality
+
+Least privilege
+
+Allow internal users to access network services through remote access
+
+Higher total cost of ownership – TCO - with a consolidated and fully integrated security operating platform.
+
+Cyberthreat protection
+
+False
+
+True
+
+False
+
+Reduce the attack surface
+
+Prisma SaaS
+
+Panorama
+
+Cortex XSOAR
+
+Prevent all known threats, fast.
+
+True
+
+True
+
+True
