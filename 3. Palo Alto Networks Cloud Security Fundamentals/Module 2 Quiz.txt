@@ -1,0 +1,11 @@
+True
+
+Private
+
+Desktop as a Service (DaaS)
+
+Software as a Service (SAAS)
+
+Hybrid
+
+An online space where customers can develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.
