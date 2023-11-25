@@ -12,7 +12,7 @@
 
 ### 2. [Palo Alto Networks Network Security Fundamentals](https://www.coursera.org/learn/palo-alto-networks-network-security-fundamentals?specialization=palo-alto-networks-cybersecurity-fundamentals)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/MC27HDSL7Y3U_
 #
 
 ### 3. [Palo Alto Networks Cloud Security Fundamentals](https://www.coursera.org/learn/palo-alto-networks-cloud-sec-fundamentals?specialization=palo-alto-networks-cybersecurity-fundamentals)
