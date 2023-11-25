@@ -1,0 +1,146 @@
+1.
+Question 1
+Which type of attacker is motivated by political or social causes?
+
+1 point
+
+Cybercriminal
+
+
+Hacktivist
+
+
+Cyberterrorist
+
+
+State-affiliated
+
+2.
+Question 2
+Which technique is NOT used to break the command and control – CnC - phase of the Cyber Kill Chain®?
+
+1 point
+
+Blocking outbound traffic to known malicious sites and IP addresses
+
+
+DNS sinkholing
+
+
+Vulnerability and Patch Management
+
+
+DNS poisoning
+
+3.
+Question 3
+What is an easy way to make your WiFi security stronger and make it more difficult for hackers to discover your wireless network?
+
+1 point
+
+Change the Access Point – AP - Password
+
+
+Change the Service Set Identifier - SSID
+
+
+Change the Initialization Vector - IV
+
+
+Change the Extensible Authentication Protocol - EAP - security settings.
+
+4.
+Question 4
+True or False. Someone with limited hacking and/or programming skills that uses malicious programs (malware:written by others to attack a computer or network is known as a newbie.
+
+1 point
+
+True
+
+
+False
+
+5.
+Question 5
+True or False. Wired Equivalent Privacy – WEP - is the most effective protocol for securing wireless networks.
+
+1 point
+
+True
+
+
+False
+
+6.
+Question 6
+Which of the following are examples of an endpoint? Choose 3.
+
+1 point
+
+Desktop
+
+
+Point of Sale Terminal - POS
+
+
+Smartphone
+
+
+Mainframe
+
+7.
+Question 7
+True or False. An attacker only needs to successfully execute one step of the Cyber-Attack Lifecycle in order to infiltrate a network, whereas a defender must “be right every time” and break every step of the chain to prevent an attack.
+
+1 point
+
+True
+
+
+False
+
+8.
+Question 8
+True or False. The Cyber-Attack Lifecycle framework is a five-step process that an attacker can implement in order to attack a network.
+
+1 point
+
+True
+
+
+False
+
+9.
+Question 9
+Which of the following WLAN standards is the LEAST secure? Pick two.
+
+1 point
+
+Wireless Protected Access - WPA
+
+
+Wired Equivalent Privacy - WEP
+
+
+Wireless Protected Access 2 - WPA2
+
+
+WiFi Protected Setup - WPS
+
+
+-------------------------------
+
+
+
+Hacktivist
+DNS poisoning
+Change the Access Point – AP - Password
+False
+False
+Desktop, Point of Sale Terminal - POS, Smartphone
+False
+False
+Wired Equivalent Privacy - WEP, WiFi Protected Setup - WPS
+
+
+
