@@ -1,0 +1,17 @@
+Media Access Control - MAC
+
+Application
+
+Transport
+
+Transport (Assuming "4" refers to the Transport layer)
+
+3 (Network Layer)
+
+6 (Session Layer) (INCORRECT)
+
+Data Link
+
+De-encapsulation
+
+Signal errors caused by noise
