@@ -2,7 +2,7 @@
 
 
 ## [Palo Alto Networks Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/palo-alto-networks-cybersecurity-fundamentals)
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/professional-cert/5MC9BD9K3KT6_
 #
 
 ### 1. [Palo Alto Networks Cybersecurity Foundation](https://www.coursera.org/learn/palo-alto-networks-cybersecurity-foundation-a?specialization=palo-alto-networks-cybersecurity-fundamentals)
