@@ -1,0 +1,15 @@
+Cloud Access Security Broker - CASB
+
+Identity and access management - IAM - security
+
+Secure Web Gateway - SWG
+
+Unsanctioned
+
+User and entity behavior analytics - UEBA
+
+True
+
+True
+
+True

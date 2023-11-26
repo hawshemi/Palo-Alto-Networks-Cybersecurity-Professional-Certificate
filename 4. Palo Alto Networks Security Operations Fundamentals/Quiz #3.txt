@@ -1,0 +1,8 @@
+Automation
+Engineering
+SIEM
+SOAR
+SOAR
+True
+False
+True

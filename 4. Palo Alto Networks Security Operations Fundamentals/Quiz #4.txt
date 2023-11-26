@@ -1,0 +1,6 @@
+Dynamic
+Management Console
+Isolate Endpoints
+True
+True
+True

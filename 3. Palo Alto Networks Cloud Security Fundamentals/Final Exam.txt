@@ -1,0 +1,61 @@
+Implementing a static and flat computing fabric
+
+North-South
+
+East-West
+
+Consolidating servers within trust levels
+
+True
+
+Cloud
+
+True
+
+True
+
+True
+
+True
+
+True
+
+Container as a Service
+
+Serverless
+
+Serverless
+
+Dormant VMs
+
+True
+
+True
+
+True
+
+Private
+
+Desktop as a Service (DaaS)
+
+Software as a Service (SAAS)
+
+Hybrid
+
+An online space where customers can develop, run, and manage applications without the complexity of building and maintaining the infrastructure typically associated with developing and launching an app.
+
+Cloud Access Security Broker - CASB
+
+Identity and access management - IAM - security
+
+Secure Web Gateway - SWG
+
+Unsanctioned
+
+User and entity behavior analytics - UEBA
+
+True
+
+True
+
+True

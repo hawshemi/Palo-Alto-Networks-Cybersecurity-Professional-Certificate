@@ -1,0 +1,31 @@
+Forensics and Telemetry
+Technology
+Quality Review (INCORRECT) , Process Improvements (INCORRECT)
+Forensic
+Interfaces
+Mitigate
+Severity Triage
+True
+Automation
+Engineering
+SIEM
+SOAR
+SOAR
+True
+False
+True
+Dynamic
+Management Console
+Isolate Endpoints
+True
+True
+True
+MineMeld
+A,B,C
+False
+True
+True
+True
+Visibility
+False
+True

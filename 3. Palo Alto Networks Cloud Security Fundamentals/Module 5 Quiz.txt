@@ -1,0 +1,9 @@
+Implementing a static and flat computing fabric
+
+North-South
+
+East-West
+
+Consolidating servers within trust levels
+
+True
