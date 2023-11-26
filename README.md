@@ -22,7 +22,7 @@
 
 ### 4. [Palo Alto Networks Security Operations Fundamentals](https://www.coursera.org/learn/palo-alto-networks-security-operations-center-fundamentals?specialization=palo-alto-networks-cybersecurity-fundamentals)
 
-####    **Certificate:** 
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/LRP4THZX4D9Y_
 #
 
 
