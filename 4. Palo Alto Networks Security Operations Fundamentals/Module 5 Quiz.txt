@@ -1,0 +1,6 @@
+MineMeld
+A,B,C
+False
+True
+True
+True
